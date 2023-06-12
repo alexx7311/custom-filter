@@ -1,8 +1,9 @@
 ! Title: AdGuard c00l filter
 ! Description: very c00l
-! Version: 0.0.6
+! Version: 0.0.7
 ! TimeUpdated: 2023-05-16T16:51:35+03:00
 
 @@||mail.ru^
 dzen.ru##div.content:nth-child(2) > div.dzen-desktop__container-29:last-child > div.desktop-layout__container-2A.desktop-layout__morda-3K:last-child > main.desktop-layout__main-2q > section.desktop-layout__content-1S:nth-child(2) > div.desktop-layout__contentInner-2f > div.dzen-top-controls-desktop__topControls-14:nth-child(2) > span:first-child > svg.zen-ui-generic-svg
 @@||ya.ru^
+@@||dzen.ru^
