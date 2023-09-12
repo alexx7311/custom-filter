@@ -1,2 +1,1 @@
-||youtube.com^
-||mail.com^
+||example.com$csp=style-src *
