@@ -1,7 +1,7 @@
 ! Title: AdGuard c00l filter
 ! Description: very c00l
-! Version: 0.0.100
-! TimeUpdated: 2025-10-11T16:51:35+03:00
+! Version: 0.0.101
+! TimeUpdated: 2025-10-12T16:51:35+03:00
 
 @[$path=/subpage1]testcases.agrd.dev,pages.dev#%#//scriptlet('set-constant', 'canRunAds', 'true')
 @@||example.org^
